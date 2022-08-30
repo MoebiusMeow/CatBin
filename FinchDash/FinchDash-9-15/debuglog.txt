@@ -1,0 +1,4 @@
+09.08 22:30:35  Prog 7 10
+09.08 22:30:37 Warning: Unable to enumerate family ' "Ubuntu Mono derivative Powerline" '
+09.09 13:42:36  Prog 10 13
+09.09 13:42:38 Warning: Unable to enumerate family ' "Ubuntu Mono derivative Powerline" '
